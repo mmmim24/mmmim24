@@ -66,7 +66,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="Mustaq Mujahid Mim | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="_m_m_mim_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mim._.m._.m | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="MMMim | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
   
 <br>
@@ -97,9 +97,10 @@
 
 <!--
 **mmmim24/mmmim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub  profile. 
-Here are some ideas to get you started: 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Here are some ideas to get you started: -->
+<!--
+- 🔭 I’m currently working on **React**
+- 🌱 I’m currently learning **Firebase and node.js**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
