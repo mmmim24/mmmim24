@@ -88,7 +88,7 @@
 
 
 
-[instagram]: https://instagram.com/_m_m_mim_
+[instagram]: https://instagram.com/mim._.m._.m
 [facebook]: https://www.facebook.com/mustaq.mujahid.mim.5/
 [codeforces]:https://codeforces.com/profile/MMMim
 [linkedin]:https://www.linkedin.com/in/mustaq-mujahid-mim-961091141/
