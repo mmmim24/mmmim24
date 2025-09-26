@@ -59,7 +59,7 @@ Here are some ideas to get you started: -->
 <!--  ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=mmmim24) -->
 <br>
 
-
+[![An image of @mmmim24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mmmim24)](https://holopin.io/@mmmim24)
 
 ## Projects that I contributed to
 
